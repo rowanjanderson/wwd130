@@ -1,0 +1,10 @@
+/* Clean, modern table rules */
+table {
+  width: 100%;
+  table-layout: fixed;          /* Forces predictable, uniform column widths */
+  border-collapse: collapse;    /* Merges double browser borders into single neat lines */
+  margin: 20px 0;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}

@@ -45,3 +45,15 @@ body {
   box-shadow: 5px 5px 0px black;
   min-height: 400px;
 }
+table{
+  background-color: white;
+  margin: 30px auto;
+  width: 90%;
+  max-width: 900px;
+  padding: 40px;
+  box-shadow: 5px 5px 0px black;
+  min-height: 400px;
+} 
+table, th, td {
+  border: 1px solid;
+}
